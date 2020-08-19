@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "581071278006",
+    "firebase_url": "https://login-app-e5765.firebaseio.com",
+    "project_id": "login-app-e5765",
+    "storage_bucket": "login-app-e5765.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581071278006:android:da2b09226357500f90bb17",
+        "android_client_info": {
+          "package_name": "com.amey.login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581071278006-huljk39dums41v8b80q1lh67dr7k35el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbWD4lCBdvVTfgrmWgLcbuDBO7sF_fYWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581071278006-huljk39dums41v8b80q1lh67dr7k35el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

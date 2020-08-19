@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Login_App</string>
+
+    <string-array name="items_class">
+        <item>Chem</item>
+        <item>Mech</item>
+        <item>Comp</item>
+        <item>Civil</item>
+    </string-array>
+
+    <string-array name="Chem">
+        <item>chem1</item>
+        <item>chem2</item>
+        <item>Reaction</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="items_div_class_2">
+        <item>Div 2-A</item>
+        <item>Div 2-B</item>
+        <item>Div 2-C</item>
+        <item>Div 2-D</item>
+    </string-array>
+
+    <string-array name="items_div_class_3">
+        <item>Div 3-A</item>
+        <item>Div 3-B</item>
+        <item>Div 3-C</item>
+        <item>Div 3-D</item>
+    </string-array>
+
+    <string-array name="items_div_class_4">
+        <item>Div 4-A</item>
+        <item>Div 4-B</item>
+        <item>Div 4-C</item>
+        <item>Div 4-D</item>
+    </string-array>
+</resources>
